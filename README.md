@@ -1,6 +1,6 @@
 >><intro>
 >>  Hello, it's Omar-Rahwanji ^_^
->></intro> 
+>></intro>; 
 >>
 >><curiosity>
 >>  I like discovering what's behind the limits ∞
