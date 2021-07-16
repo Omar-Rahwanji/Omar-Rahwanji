@@ -6,4 +6,4 @@
 >> 
 >> Being a good team player will always bring your team to a moment of a victory ⚔;
 >> 
->> The moment of Putting a smile on your customer's face is irreplaceable 😄;
+>> The moment of Putting a smile on people faces is irreplaceable 😄;
