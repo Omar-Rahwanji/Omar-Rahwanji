@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a senior software engineer at Network International.<br>I love tinkering with technology and try out new technologies.<br>I use LLMs on a daily basis. I do believe that investing time in prompt engineering will radically improve the outpu quality of LLMs.
+I'm currently working as a senior software engineer at Network International.<br>I love tinkering with technology and try out new technologies.<br>I use LLMs on a daily basis. I do believe that investing time in prompt engineering will radically improve the output quality of LLMs.
 
 
 ## 🌐 Socials:
