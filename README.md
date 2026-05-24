@@ -1,5 +1,15 @@
 # 💫 About Me:
-I'm currently working as a senior software engineer at Network International.<br>I love tinkering with technology and try out new technologies.<br>I use LLMs on a daily basis. I do believe that investing time in prompt engineering will radically improve the output quality of LLMs.
+Senior Software Engineer with a strong focus on building scalable backend systems, distributed architectures, and modern cloud-native applications.
+
+Over the past several years, I have worked across backend engineering, infrastructure, observability, DevOps, and product architecture - with hands-on experience designing and delivering production-grade systems using Java, Spring Boot, PostgreSQL, Docker, reverse proxies, and modern deployment workflows.
+
+I enjoy working at the intersection of software engineering and systems thinking: understanding how things work internally, simplifying complexity, and building reliable solutions that scale both technically and operationally.
+
+Beyond implementation, I care deeply about clarity, abstraction, and knowledge sharing. I have a strong ability to break down complex technical concepts into understandable mental models, helping teams communicate better and make more informed engineering decisions.
+
+Currently, I am focused on building modern SaaS platforms and multi-tenant systems targeting real-world business problems in the MENA region, while continuously expanding my expertise in distributed systems, platform engineering, security, networking, and AI-assisted development workflows.
+
+I am driven by curiosity, ownership, and continuous learning - always looking to explore deeper layers of technology and turn complexity into practical, maintainable solutions.
 
 
 ## 🌐 Socials:
