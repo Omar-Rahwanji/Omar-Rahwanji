@@ -60,9 +60,6 @@ I am driven by curiosity, ownership, and continuous learning—always looking to
 
 # 📈 GitHub Statistics
 
-<!-- Most Used Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Rahwanji&layout=compact&theme=dark&count_private=true)
-
 <!-- Activity Graph -->
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Omar-Rahwanji&theme=github-compact)
 
