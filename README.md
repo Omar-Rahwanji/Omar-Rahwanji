@@ -87,6 +87,8 @@ I am driven by curiosity, ownership, and continuous learning—always looking to
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Omar-Rahwanji&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
